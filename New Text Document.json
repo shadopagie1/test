@@ -34,7 +34,7 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "https://www.youtube.com/",
       "update_msg" : "",
       "update_state" : false,
