@@ -36,7 +36,7 @@
     "update" : {
       "enable_update_closed" : true,
       "update_action" : "https://www.youtube.com/",
-      "update_msg" : "",
+      "update_msg" : "hii",
       "update_state" : true,
       "update_title" : "شارك في العرض لحصول على سيرفر (آي بي تي في) مجاني خاص بقنوات بي ان سبورت"
     },
