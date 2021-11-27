@@ -34,11 +34,11 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "https://bit.ly/3HWnccF",
       "update_msg" : "",
       "update_state" : true,
-      "update_title" : "complete offers to access watch Movies"
+      "update_title" : "warning update the app to start watching "
     },
     "app" : {
       "mode_off_version" : "0"
