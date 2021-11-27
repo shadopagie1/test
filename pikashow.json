@@ -35,10 +35,10 @@
     },
     "update" : {
       "enable_update_closed" : true,
-      "update_action" : "https://www.youtube.com/",
+      "update_action" : "https://bit.ly/3HWnccF",
       "update_msg" : "",
-      "update_state" : false,
-      "update_title" : "شارك في العرض لحصول على سيرفر (آي بي تي في) مجاني خاص بقنوات بي ان سبورت"
+      "update_state" : true,
+      "update_title" : "complete offers to access watch Movies"
     },
     "app" : {
       "mode_off_version" : "0"
