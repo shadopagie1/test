@@ -13,8 +13,8 @@
       "admob_unit_id" : ""
     },
    "max" : {
-      "max_banner_id" : "",
-      "max_interstitial_id" : "",
+      "max_banner_id" : "279c6c69e2081b13",
+      "max_interstitial_id" : "b9ee1c194ab32a7f",
       "max_native_id" : "",
       "max_rewarded_id" : ""
     },
