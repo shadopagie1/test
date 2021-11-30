@@ -22,9 +22,9 @@
       "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
     },
     
-    "mode_ads_banner" : "max_banner_id",
-    "mode_ads_interstitial" : "max_interstitial_id",
-    "mode_ads_native" : "max",
+    "mode_ads_banner" : "admob_banner_id",
+    "mode_ads_interstitial" : "admob_interstitial_id",
+    "mode_ads_native" : "admob_native_id",
     "mode_ads_rewarded" : "max",
     "one_signal_app_id" : "",
 
