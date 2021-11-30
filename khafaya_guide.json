@@ -32,7 +32,7 @@
       "enable_update_closed" : true,
       "update_action" : "https://play.google.com/store/apps/details?id=",
       "update_msg" : "Update To Now Version",
-      "update_state" : flase,
+      "update_state" : false,
       "update_action_text" : "Update",
       "update_title" : "Update Now!"
     },
