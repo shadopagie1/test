@@ -21,8 +21,8 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "",
+    "mode_ads_interstitial" : "",
     "mode_ads_interstitial_mix" : "0",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
@@ -64,7 +64,7 @@
     {
       "id" : 2,
       "imageURL" : "",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Yassin 3",
       "description" : "",
       "written" : ""
@@ -74,6 +74,14 @@
       "imageURL" : "",
       "state" : "vip",
       "title" : "Yassin 4",
+      "description" : "",
+      "written" : ""
+    }
+     {
+      "id" : 4,
+      "imageURL" : "",
+      "state" : "vip",
+      "title" : "Yassin 5",
       "description" : "",
       "written" : ""
     }
