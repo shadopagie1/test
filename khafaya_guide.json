@@ -9,10 +9,10 @@
     },
     
     "max" : {
-      "max_banner_id" : "a989f6ecfcdf4539",
-      "max_interstitial_id" : "8472f6350b128ad4",
-      "max_native_id" : "",
-      "max_rewarded_id" : ""
+      "max_banner_id" : "eab4c9b253d71182",
+      "max_interstitial_id" : "045aba3c4aa6bd90",
+      "max_native_id" : "3d69bce102bebd3e",
+      "max_rewarded_id" : "23bda29570e64e53"
     },
 	
 	"mopub" : {
@@ -22,9 +22,9 @@
       "mopub_rewarded_id" : "920b6145fb1546cf8b5cf2ac34638bb7"
     },
     
-    "mode_ads_banner" : "admob_banner_id",
-    "mode_ads_interstitial" : "admob_interstitial_id",
-    "mode_ads_native" : "admob_native_id",
+    "mode_ads_banner" : "cpa",
+    "mode_ads_interstitial" : "local_offer",
+    "mode_ads_native" : "local_offer",
     "mode_ads_rewarded" : "max",
     "one_signal_app_id" : "",
 
@@ -32,7 +32,7 @@
       "enable_update_closed" : true,
       "update_action" : "https://play.google.com/store/apps/details?id=",
       "update_msg" : "Update To Now Version",
-      "update_state" : false,
+      "update_state" : flase,
       "update_action_text" : "Update",
       "update_title" : "Update Now!"
     },
